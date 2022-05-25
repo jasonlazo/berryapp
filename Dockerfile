@@ -9,4 +9,4 @@ RUN apt update -y \
 
 EXPOSE 8000
 
-CMD ["uvicorn", "asgi:app --reload"]
+CMD ["uvicorn", "asgi:app", "--host=0.0.0.0"]
