@@ -1,0 +1,10 @@
+[
+  {
+    "name": "BATCH_SIZE",
+    "value": 100
+  },
+  {
+    "name": "HTTP_RETRIES",
+    "value": 3
+  }
+]
