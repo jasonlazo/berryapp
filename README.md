@@ -3,6 +3,8 @@
 ## Run tests
 
 ```
+pip install -r requirements/test.txt
+
 python -m unittest tests/**/*.py
 ```
 
